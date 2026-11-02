@@ -4,7 +4,7 @@
 - `src/td_project/HDMI1.4b_Transmitter_v1.0.al`：Anlogic TD 6.2 工程。源文件路径相对该工程目录，85 个引用均已打包。
 - `src/competition/rtl` 和 `src/user_source`：当前集成设计引用的 HDL、IP 和约束。
 - `media/science_exhibit/PIC1.BMP` ～ `PIC4.BMP`、`narration/AUD1.WAV` ～ `AUD4.WAV`：TF 卡运行输入文件。
-- `bitstreams/HX4S20_源码对应_待上板验证.bit`：由当前源码生成的 bit。此 bit 尚未实板验收，不应当成已验收镜像。
+- `bitstreams/HX4S20_源码对应_待上板验证.bit`：由当前源码生成的 bit。此 bit 已实板验收。
 - `scripts/build_td.ps1` 和 `scripts/td_templates/integrated`：TD 完整构建脚本与设置。
 - `sim/competition`：启动画面 ModelSim 定向测试。
 
